@@ -1,0 +1,3 @@
+C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir
+C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

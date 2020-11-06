@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/esago/CLionProjects/LPI/pr05.c
+pr05.h
+C:/Users/esago/CLionProjects/LPI/pr05.h
+
+C:/Users/esago/CLionProjects/LPI/pr05.h
+stdio.h
+-
+math.h
+-
+
