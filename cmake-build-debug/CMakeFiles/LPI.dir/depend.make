@@ -7,6 +7,8 @@ CMakeFiles/LPI.dir/main.c.obj: ../pr02.h
 CMakeFiles/LPI.dir/main.c.obj: ../pr03.h
 CMakeFiles/LPI.dir/main.c.obj: ../pr04.h
 CMakeFiles/LPI.dir/main.c.obj: ../pr05.h
+CMakeFiles/LPI.dir/main.c.obj: ../pr06.h
+CMakeFiles/LPI.dir/main.c.obj: ../pr07.h
 CMakeFiles/LPI.dir/main.c.obj: ../tp02.h
 CMakeFiles/LPI.dir/main.c.obj: ../tp03.h
 CMakeFiles/LPI.dir/main.c.obj: ../tp04.h
@@ -28,6 +30,12 @@ CMakeFiles/LPI.dir/pr04.c.obj: ../tp03.h
 
 CMakeFiles/LPI.dir/pr05.c.obj: ../pr05.c
 CMakeFiles/LPI.dir/pr05.c.obj: ../pr05.h
+
+CMakeFiles/LPI.dir/pr06.c.obj: ../pr06.c
+CMakeFiles/LPI.dir/pr06.c.obj: ../pr06.h
+
+CMakeFiles/LPI.dir/pr07.c.obj: ../pr07.c
+CMakeFiles/LPI.dir/pr07.c.obj: ../pr07.h
 
 CMakeFiles/LPI.dir/tp02.c.obj: ../tp02.c
 CMakeFiles/LPI.dir/tp02.c.obj: ../tp02.h

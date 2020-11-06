@@ -12,10 +12,18 @@
 #include "pr03.h"
 #include "pr04.h"
 #include "pr05.h"
+#include "pr06.h"
+#include "pr07.h"
 
 
 
 int main() {
-    main_pr05();
 
+    char strUpper[100];
+    char str[]="ola mundo";
+    char *pstr=&str;
+
+    str_to_upper(pstr,strUpper);
+
+    printf("String: %s",strUpper);
 }

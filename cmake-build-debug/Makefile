@@ -304,6 +304,60 @@ pr05.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr05.c.s
 .PHONY : pr05.c.s
 
+pr06.obj: pr06.c.obj
+
+.PHONY : pr06.obj
+
+# target to build an object file
+pr06.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr06.c.obj
+.PHONY : pr06.c.obj
+
+pr06.i: pr06.c.i
+
+.PHONY : pr06.i
+
+# target to preprocess a source file
+pr06.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr06.c.i
+.PHONY : pr06.c.i
+
+pr06.s: pr06.c.s
+
+.PHONY : pr06.s
+
+# target to generate assembly for a file
+pr06.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr06.c.s
+.PHONY : pr06.c.s
+
+pr07.obj: pr07.c.obj
+
+.PHONY : pr07.obj
+
+# target to build an object file
+pr07.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.obj
+.PHONY : pr07.c.obj
+
+pr07.i: pr07.c.i
+
+.PHONY : pr07.i
+
+# target to preprocess a source file
+pr07.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.i
+.PHONY : pr07.c.i
+
+pr07.s: pr07.c.s
+
+.PHONY : pr07.s
+
+# target to generate assembly for a file
+pr07.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.s
+.PHONY : pr07.c.s
+
 tp02.obj: tp02.c.obj
 
 .PHONY : tp02.obj
@@ -466,6 +520,12 @@ help:
 	@echo ... pr05.obj
 	@echo ... pr05.i
 	@echo ... pr05.s
+	@echo ... pr06.obj
+	@echo ... pr06.i
+	@echo ... pr06.s
+	@echo ... pr07.obj
+	@echo ... pr07.i
+	@echo ... pr07.s
 	@echo ... tp02.obj
 	@echo ... tp02.i
 	@echo ... tp02.s

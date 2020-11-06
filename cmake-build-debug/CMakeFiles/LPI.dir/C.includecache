@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/esago/CLionProjects/LPI/pr05.c
-pr05.h
-C:/Users/esago/CLionProjects/LPI/pr05.h
+C:/Users/esago/CLionProjects/LPI/pr06.c
+pr06.h
+C:/Users/esago/CLionProjects/LPI/pr06.h
 
-C:/Users/esago/CLionProjects/LPI/pr05.h
+C:/Users/esago/CLionProjects/LPI/pr06.h
 stdio.h
 -
-math.h
+stdlib.h
+-
+string.h
+-
+ctype.h
 -
 
