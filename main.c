@@ -19,11 +19,6 @@
 
 int main() {
 
-    char strUpper[100];
-    char str[]="ola mundo";
-    char *pstr=&str;
+    int sum_all_argv();
 
-    str_to_upper(pstr,strUpper);
-
-    printf("String: %s",strUpper);
 }
