@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/esago/CLionProjects/LPI/tp04.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp04.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp05.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp05.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp06.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp06.c.obj"
+  "C:/Users/esago/CLionProjects/LPI/tp07e08.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp07e08.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
