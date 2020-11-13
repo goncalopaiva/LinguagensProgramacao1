@@ -24,7 +24,6 @@ void count_consonants(int c, const char *astr[], char strings[][MAX128], char co
 
 void print_non_repeated_strs(const char *astr[], int size) {
 
-
 }
 
 int str_exists_before(const char str[], const char *argv[], int line) {
