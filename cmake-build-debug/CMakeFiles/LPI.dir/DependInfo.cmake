@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/esago/CLionProjects/LPI/pr05.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr05.c.obj"
   "C:/Users/esago/CLionProjects/LPI/pr06.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr06.c.obj"
   "C:/Users/esago/CLionProjects/LPI/pr07.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr07.c.obj"
+  "C:/Users/esago/CLionProjects/LPI/pr08.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr08.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp02.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp02.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp03.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp03.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp04.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp04.c.obj"

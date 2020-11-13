@@ -119,6 +119,12 @@
 		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr07.h">
 			<Option target="LPI"/>
 		</Unit>
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr08.c">
+			<Option target="LPI"/>
+		</Unit>
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr08.h">
+			<Option target="LPI"/>
+		</Unit>
 		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp02.c">
 			<Option target="LPI"/>
 		</Unit>

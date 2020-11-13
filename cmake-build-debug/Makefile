@@ -358,6 +358,33 @@ pr07.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.s
 .PHONY : pr07.c.s
 
+pr08.obj: pr08.c.obj
+
+.PHONY : pr08.obj
+
+# target to build an object file
+pr08.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr08.c.obj
+.PHONY : pr08.c.obj
+
+pr08.i: pr08.c.i
+
+.PHONY : pr08.i
+
+# target to preprocess a source file
+pr08.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr08.c.i
+.PHONY : pr08.c.i
+
+pr08.s: pr08.c.s
+
+.PHONY : pr08.s
+
+# target to generate assembly for a file
+pr08.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr08.c.s
+.PHONY : pr08.c.s
+
 tp02.obj: tp02.c.obj
 
 .PHONY : tp02.obj
@@ -553,6 +580,9 @@ help:
 	@echo ... pr07.obj
 	@echo ... pr07.i
 	@echo ... pr07.s
+	@echo ... pr08.obj
+	@echo ... pr08.i
+	@echo ... pr08.s
 	@echo ... tp02.obj
 	@echo ... tp02.i
 	@echo ... tp02.s
