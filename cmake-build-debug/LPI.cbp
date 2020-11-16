@@ -161,6 +161,12 @@
 		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp07e08.h">
 			<Option target="LPI"/>
 		</Unit>
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp09.c">
+			<Option target="LPI"/>
+		</Unit>
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp09.h">
+			<Option target="LPI"/>
+		</Unit>
 		<Unit filename="C:/Users/esago/CLionProjects/LPI/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

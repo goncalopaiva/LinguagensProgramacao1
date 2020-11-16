@@ -14,6 +14,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LPI.dir/tp05.c.obj"
   "CMakeFiles/LPI.dir/tp06.c.obj"
   "CMakeFiles/LPI.dir/tp07e08.c.obj"
+  "CMakeFiles/LPI.dir/tp09.c.obj"
   "LPI.exe"
   "LPI.exe.manifest"
   "LPI.pdb"
