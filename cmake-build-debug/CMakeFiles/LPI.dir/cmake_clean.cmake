@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LPI.dir/pr06.c.obj"
   "CMakeFiles/LPI.dir/pr07.c.obj"
   "CMakeFiles/LPI.dir/pr08.c.obj"
+  "CMakeFiles/LPI.dir/pr09.c.obj"
   "CMakeFiles/LPI.dir/tp02.c.obj"
   "CMakeFiles/LPI.dir/tp03.c.obj"
   "CMakeFiles/LPI.dir/tp04.c.obj"
