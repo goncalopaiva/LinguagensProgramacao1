@@ -83,4 +83,19 @@ struct pt pop_stack_node_points_copynode (STACK_NODE_POINTS *psnp) {
     return pt;
 }
 
+struct pt peep_stack_node_points (const STACK_NODE_POINTS *psnp, int delta) {
+    struct pt pt = {INT_MAX, INT_MAX};
+    if (is_empty(*psnp)) {
+        return pt;
+    }
+    NODE_POINT *pnp = psnp -> ptop;
+    int i=0;
+    while (i<delta && pnp != NULL) {
+        i++;
+        pnp = pnp -> pdown;
+    }
+    return pnp -> info;
+}
+
+
 
