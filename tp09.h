@@ -15,7 +15,6 @@
  */
 struct pt { int x, y; };
 
-
 /**
  * Declarar novo tipo typedef rectangle (contendo down and up points, e.g. { {0,0}, {1,1} }).
  * NB: na aula TP designa-se por rect para evitar conflito com pr09.h.
@@ -67,7 +66,6 @@ void print_pt(char pt_label[], const struct pt* pp);
  * @param pr - pointer to rectangle to print.
  */
 void print_rect(char rect_label[], const struct rect* pr);
-
 
 int main_tp09(int argc, const char * argv[]);
 
