@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LPI.dir/main.c.obj"
   "CMakeFiles/LPI.dir/pr11.c.obj"
+  "CMakeFiles/LPI.dir/pr12.c.obj"
   "CMakeFiles/LPI.dir/tp11.c.obj"
   "CMakeFiles/LPI.dir/tp12.c.obj"
   "LPI.exe"

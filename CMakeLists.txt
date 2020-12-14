@@ -27,4 +27,4 @@ add_executable(LPI main.c
         #tp09.c tp09.h
         tp11.c tp11.h
 
-        tp12.c tp12.h)
+        tp12.c tp12.h pr12.c pr12.h)

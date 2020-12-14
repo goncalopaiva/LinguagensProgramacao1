@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/esago/CLionProjects/LPI/main.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/main.c.obj"
   "C:/Users/esago/CLionProjects/LPI/pr11.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr11.c.obj"
+  "C:/Users/esago/CLionProjects/LPI/pr12.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr12.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp11.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp11.c.obj"
   "C:/Users/esago/CLionProjects/LPI/tp12.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp12.c.obj"
   )

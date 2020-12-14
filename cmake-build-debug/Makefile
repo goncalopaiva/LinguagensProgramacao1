@@ -196,6 +196,33 @@ pr11.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr11.c.s
 .PHONY : pr11.c.s
 
+pr12.obj: pr12.c.obj
+
+.PHONY : pr12.obj
+
+# target to build an object file
+pr12.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr12.c.obj
+.PHONY : pr12.c.obj
+
+pr12.i: pr12.c.i
+
+.PHONY : pr12.i
+
+# target to preprocess a source file
+pr12.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr12.c.i
+.PHONY : pr12.c.i
+
+pr12.s: pr12.c.s
+
+.PHONY : pr12.s
+
+# target to generate assembly for a file
+pr12.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr12.c.s
+.PHONY : pr12.c.s
+
 tp11.obj: tp11.c.obj
 
 .PHONY : tp11.obj
@@ -265,6 +292,9 @@ help:
 	@echo ... pr11.obj
 	@echo ... pr11.i
 	@echo ... pr11.s
+	@echo ... pr12.obj
+	@echo ... pr12.i
+	@echo ... pr12.s
 	@echo ... tp11.obj
 	@echo ... tp11.i
 	@echo ... tp11.s
