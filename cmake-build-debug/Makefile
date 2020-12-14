@@ -169,437 +169,86 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/main.c.s
 .PHONY : main.c.s
 
-pr01.obj: pr01.c.obj
+pr11.obj: pr11.c.obj
 
-.PHONY : pr01.obj
-
-# target to build an object file
-pr01.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr01.c.obj
-.PHONY : pr01.c.obj
-
-pr01.i: pr01.c.i
-
-.PHONY : pr01.i
-
-# target to preprocess a source file
-pr01.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr01.c.i
-.PHONY : pr01.c.i
-
-pr01.s: pr01.c.s
-
-.PHONY : pr01.s
-
-# target to generate assembly for a file
-pr01.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr01.c.s
-.PHONY : pr01.c.s
-
-pr02.obj: pr02.c.obj
-
-.PHONY : pr02.obj
+.PHONY : pr11.obj
 
 # target to build an object file
-pr02.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr02.c.obj
-.PHONY : pr02.c.obj
+pr11.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr11.c.obj
+.PHONY : pr11.c.obj
 
-pr02.i: pr02.c.i
+pr11.i: pr11.c.i
 
-.PHONY : pr02.i
+.PHONY : pr11.i
 
 # target to preprocess a source file
-pr02.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr02.c.i
-.PHONY : pr02.c.i
+pr11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr11.c.i
+.PHONY : pr11.c.i
 
-pr02.s: pr02.c.s
+pr11.s: pr11.c.s
 
-.PHONY : pr02.s
+.PHONY : pr11.s
 
 # target to generate assembly for a file
-pr02.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr02.c.s
-.PHONY : pr02.c.s
+pr11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr11.c.s
+.PHONY : pr11.c.s
 
-pr03.obj: pr03.c.obj
+tp11.obj: tp11.c.obj
 
-.PHONY : pr03.obj
+.PHONY : tp11.obj
 
 # target to build an object file
-pr03.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr03.c.obj
-.PHONY : pr03.c.obj
+tp11.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp11.c.obj
+.PHONY : tp11.c.obj
 
-pr03.i: pr03.c.i
+tp11.i: tp11.c.i
 
-.PHONY : pr03.i
+.PHONY : tp11.i
 
 # target to preprocess a source file
-pr03.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr03.c.i
-.PHONY : pr03.c.i
+tp11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp11.c.i
+.PHONY : tp11.c.i
 
-pr03.s: pr03.c.s
+tp11.s: tp11.c.s
 
-.PHONY : pr03.s
+.PHONY : tp11.s
 
 # target to generate assembly for a file
-pr03.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr03.c.s
-.PHONY : pr03.c.s
+tp11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp11.c.s
+.PHONY : tp11.c.s
 
-pr04.obj: pr04.c.obj
+tp12.obj: tp12.c.obj
 
-.PHONY : pr04.obj
+.PHONY : tp12.obj
 
 # target to build an object file
-pr04.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr04.c.obj
-.PHONY : pr04.c.obj
+tp12.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp12.c.obj
+.PHONY : tp12.c.obj
 
-pr04.i: pr04.c.i
+tp12.i: tp12.c.i
 
-.PHONY : pr04.i
-
-# target to preprocess a source file
-pr04.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr04.c.i
-.PHONY : pr04.c.i
-
-pr04.s: pr04.c.s
-
-.PHONY : pr04.s
-
-# target to generate assembly for a file
-pr04.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr04.c.s
-.PHONY : pr04.c.s
-
-pr05.obj: pr05.c.obj
-
-.PHONY : pr05.obj
-
-# target to build an object file
-pr05.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr05.c.obj
-.PHONY : pr05.c.obj
-
-pr05.i: pr05.c.i
-
-.PHONY : pr05.i
+.PHONY : tp12.i
 
 # target to preprocess a source file
-pr05.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr05.c.i
-.PHONY : pr05.c.i
+tp12.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp12.c.i
+.PHONY : tp12.c.i
 
-pr05.s: pr05.c.s
+tp12.s: tp12.c.s
 
-.PHONY : pr05.s
-
-# target to generate assembly for a file
-pr05.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr05.c.s
-.PHONY : pr05.c.s
-
-pr06.obj: pr06.c.obj
-
-.PHONY : pr06.obj
-
-# target to build an object file
-pr06.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr06.c.obj
-.PHONY : pr06.c.obj
-
-pr06.i: pr06.c.i
-
-.PHONY : pr06.i
-
-# target to preprocess a source file
-pr06.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr06.c.i
-.PHONY : pr06.c.i
-
-pr06.s: pr06.c.s
-
-.PHONY : pr06.s
+.PHONY : tp12.s
 
 # target to generate assembly for a file
-pr06.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr06.c.s
-.PHONY : pr06.c.s
-
-pr07.obj: pr07.c.obj
-
-.PHONY : pr07.obj
-
-# target to build an object file
-pr07.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.obj
-.PHONY : pr07.c.obj
-
-pr07.i: pr07.c.i
-
-.PHONY : pr07.i
-
-# target to preprocess a source file
-pr07.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.i
-.PHONY : pr07.c.i
-
-pr07.s: pr07.c.s
-
-.PHONY : pr07.s
-
-# target to generate assembly for a file
-pr07.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr07.c.s
-.PHONY : pr07.c.s
-
-pr08.obj: pr08.c.obj
-
-.PHONY : pr08.obj
-
-# target to build an object file
-pr08.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr08.c.obj
-.PHONY : pr08.c.obj
-
-pr08.i: pr08.c.i
-
-.PHONY : pr08.i
-
-# target to preprocess a source file
-pr08.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr08.c.i
-.PHONY : pr08.c.i
-
-pr08.s: pr08.c.s
-
-.PHONY : pr08.s
-
-# target to generate assembly for a file
-pr08.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr08.c.s
-.PHONY : pr08.c.s
-
-pr09.obj: pr09.c.obj
-
-.PHONY : pr09.obj
-
-# target to build an object file
-pr09.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr09.c.obj
-.PHONY : pr09.c.obj
-
-pr09.i: pr09.c.i
-
-.PHONY : pr09.i
-
-# target to preprocess a source file
-pr09.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr09.c.i
-.PHONY : pr09.c.i
-
-pr09.s: pr09.c.s
-
-.PHONY : pr09.s
-
-# target to generate assembly for a file
-pr09.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/pr09.c.s
-.PHONY : pr09.c.s
-
-tp02.obj: tp02.c.obj
-
-.PHONY : tp02.obj
-
-# target to build an object file
-tp02.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp02.c.obj
-.PHONY : tp02.c.obj
-
-tp02.i: tp02.c.i
-
-.PHONY : tp02.i
-
-# target to preprocess a source file
-tp02.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp02.c.i
-.PHONY : tp02.c.i
-
-tp02.s: tp02.c.s
-
-.PHONY : tp02.s
-
-# target to generate assembly for a file
-tp02.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp02.c.s
-.PHONY : tp02.c.s
-
-tp03.obj: tp03.c.obj
-
-.PHONY : tp03.obj
-
-# target to build an object file
-tp03.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp03.c.obj
-.PHONY : tp03.c.obj
-
-tp03.i: tp03.c.i
-
-.PHONY : tp03.i
-
-# target to preprocess a source file
-tp03.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp03.c.i
-.PHONY : tp03.c.i
-
-tp03.s: tp03.c.s
-
-.PHONY : tp03.s
-
-# target to generate assembly for a file
-tp03.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp03.c.s
-.PHONY : tp03.c.s
-
-tp04.obj: tp04.c.obj
-
-.PHONY : tp04.obj
-
-# target to build an object file
-tp04.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp04.c.obj
-.PHONY : tp04.c.obj
-
-tp04.i: tp04.c.i
-
-.PHONY : tp04.i
-
-# target to preprocess a source file
-tp04.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp04.c.i
-.PHONY : tp04.c.i
-
-tp04.s: tp04.c.s
-
-.PHONY : tp04.s
-
-# target to generate assembly for a file
-tp04.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp04.c.s
-.PHONY : tp04.c.s
-
-tp05.obj: tp05.c.obj
-
-.PHONY : tp05.obj
-
-# target to build an object file
-tp05.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp05.c.obj
-.PHONY : tp05.c.obj
-
-tp05.i: tp05.c.i
-
-.PHONY : tp05.i
-
-# target to preprocess a source file
-tp05.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp05.c.i
-.PHONY : tp05.c.i
-
-tp05.s: tp05.c.s
-
-.PHONY : tp05.s
-
-# target to generate assembly for a file
-tp05.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp05.c.s
-.PHONY : tp05.c.s
-
-tp06.obj: tp06.c.obj
-
-.PHONY : tp06.obj
-
-# target to build an object file
-tp06.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp06.c.obj
-.PHONY : tp06.c.obj
-
-tp06.i: tp06.c.i
-
-.PHONY : tp06.i
-
-# target to preprocess a source file
-tp06.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp06.c.i
-.PHONY : tp06.c.i
-
-tp06.s: tp06.c.s
-
-.PHONY : tp06.s
-
-# target to generate assembly for a file
-tp06.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp06.c.s
-.PHONY : tp06.c.s
-
-tp07e08.obj: tp07e08.c.obj
-
-.PHONY : tp07e08.obj
-
-# target to build an object file
-tp07e08.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp07e08.c.obj
-.PHONY : tp07e08.c.obj
-
-tp07e08.i: tp07e08.c.i
-
-.PHONY : tp07e08.i
-
-# target to preprocess a source file
-tp07e08.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp07e08.c.i
-.PHONY : tp07e08.c.i
-
-tp07e08.s: tp07e08.c.s
-
-.PHONY : tp07e08.s
-
-# target to generate assembly for a file
-tp07e08.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp07e08.c.s
-.PHONY : tp07e08.c.s
-
-tp09.obj: tp09.c.obj
-
-.PHONY : tp09.obj
-
-# target to build an object file
-tp09.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp09.c.obj
-.PHONY : tp09.c.obj
-
-tp09.i: tp09.c.i
-
-.PHONY : tp09.i
-
-# target to preprocess a source file
-tp09.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp09.c.i
-.PHONY : tp09.c.i
-
-tp09.s: tp09.c.s
-
-.PHONY : tp09.s
-
-# target to generate assembly for a file
-tp09.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp09.c.s
-.PHONY : tp09.c.s
+tp12.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPI.dir\build.make CMakeFiles/LPI.dir/tp12.c.s
+.PHONY : tp12.c.s
 
 # Help Target
 help:
@@ -613,54 +262,15 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... pr01.obj
-	@echo ... pr01.i
-	@echo ... pr01.s
-	@echo ... pr02.obj
-	@echo ... pr02.i
-	@echo ... pr02.s
-	@echo ... pr03.obj
-	@echo ... pr03.i
-	@echo ... pr03.s
-	@echo ... pr04.obj
-	@echo ... pr04.i
-	@echo ... pr04.s
-	@echo ... pr05.obj
-	@echo ... pr05.i
-	@echo ... pr05.s
-	@echo ... pr06.obj
-	@echo ... pr06.i
-	@echo ... pr06.s
-	@echo ... pr07.obj
-	@echo ... pr07.i
-	@echo ... pr07.s
-	@echo ... pr08.obj
-	@echo ... pr08.i
-	@echo ... pr08.s
-	@echo ... pr09.obj
-	@echo ... pr09.i
-	@echo ... pr09.s
-	@echo ... tp02.obj
-	@echo ... tp02.i
-	@echo ... tp02.s
-	@echo ... tp03.obj
-	@echo ... tp03.i
-	@echo ... tp03.s
-	@echo ... tp04.obj
-	@echo ... tp04.i
-	@echo ... tp04.s
-	@echo ... tp05.obj
-	@echo ... tp05.i
-	@echo ... tp05.s
-	@echo ... tp06.obj
-	@echo ... tp06.i
-	@echo ... tp06.s
-	@echo ... tp07e08.obj
-	@echo ... tp07e08.i
-	@echo ... tp07e08.s
-	@echo ... tp09.obj
-	@echo ... tp09.i
-	@echo ... tp09.s
+	@echo ... pr11.obj
+	@echo ... pr11.i
+	@echo ... pr11.s
+	@echo ... tp11.obj
+	@echo ... tp11.i
+	@echo ... tp11.s
+	@echo ... tp12.obj
+	@echo ... tp12.i
+	@echo ... tp12.s
 .PHONY : help
 
 

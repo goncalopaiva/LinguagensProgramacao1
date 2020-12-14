@@ -5,22 +5,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/esago/CLionProjects/LPI/main.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/main.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr01.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr01.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr02.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr02.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr03.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr03.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr04.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr04.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr05.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr05.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr06.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr06.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr07.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr07.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr08.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr08.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/pr09.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr09.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp02.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp02.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp03.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp03.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp04.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp04.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp05.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp05.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp06.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp06.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp07e08.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp07e08.c.obj"
-  "C:/Users/esago/CLionProjects/LPI/tp09.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp09.c.obj"
+  "C:/Users/esago/CLionProjects/LPI/pr11.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/pr11.c.obj"
+  "C:/Users/esago/CLionProjects/LPI/tp11.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp11.c.obj"
+  "C:/Users/esago/CLionProjects/LPI/tp12.c" "C:/Users/esago/CLionProjects/LPI/cmake-build-debug/CMakeFiles/LPI.dir/tp12.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

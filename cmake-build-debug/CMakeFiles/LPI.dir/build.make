@@ -89,259 +89,64 @@ CMakeFiles/LPI.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/main.c.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\main.c -o CMakeFiles\LPI.dir\main.c.s
 
-CMakeFiles/LPI.dir/pr01.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr01.c.obj: ../pr01.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/LPI.dir/pr01.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr01.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr01.c
+CMakeFiles/LPI.dir/pr11.c.obj: CMakeFiles/LPI.dir/flags.make
+CMakeFiles/LPI.dir/pr11.c.obj: ../pr11.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/LPI.dir/pr11.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr11.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr11.c
 
-CMakeFiles/LPI.dir/pr01.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr01.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr01.c > CMakeFiles\LPI.dir\pr01.c.i
+CMakeFiles/LPI.dir/pr11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr11.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr11.c > CMakeFiles\LPI.dir\pr11.c.i
 
-CMakeFiles/LPI.dir/pr01.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr01.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr01.c -o CMakeFiles\LPI.dir\pr01.c.s
+CMakeFiles/LPI.dir/pr11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr11.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr11.c -o CMakeFiles\LPI.dir\pr11.c.s
 
-CMakeFiles/LPI.dir/tp02.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp02.c.obj: ../tp02.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/LPI.dir/tp02.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp02.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp02.c
+CMakeFiles/LPI.dir/tp11.c.obj: CMakeFiles/LPI.dir/flags.make
+CMakeFiles/LPI.dir/tp11.c.obj: ../tp11.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/LPI.dir/tp11.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp11.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp11.c
 
-CMakeFiles/LPI.dir/tp02.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp02.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp02.c > CMakeFiles\LPI.dir\tp02.c.i
+CMakeFiles/LPI.dir/tp11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp11.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp11.c > CMakeFiles\LPI.dir\tp11.c.i
 
-CMakeFiles/LPI.dir/tp02.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp02.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp02.c -o CMakeFiles\LPI.dir\tp02.c.s
+CMakeFiles/LPI.dir/tp11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp11.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp11.c -o CMakeFiles\LPI.dir\tp11.c.s
 
-CMakeFiles/LPI.dir/tp03.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp03.c.obj: ../tp03.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/LPI.dir/tp03.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp03.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp03.c
+CMakeFiles/LPI.dir/tp12.c.obj: CMakeFiles/LPI.dir/flags.make
+CMakeFiles/LPI.dir/tp12.c.obj: ../tp12.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/LPI.dir/tp12.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp12.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp12.c
 
-CMakeFiles/LPI.dir/tp03.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp03.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp03.c > CMakeFiles\LPI.dir\tp03.c.i
+CMakeFiles/LPI.dir/tp12.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp12.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp12.c > CMakeFiles\LPI.dir\tp12.c.i
 
-CMakeFiles/LPI.dir/tp03.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp03.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp03.c -o CMakeFiles\LPI.dir\tp03.c.s
-
-CMakeFiles/LPI.dir/pr02.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr02.c.obj: ../pr02.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/LPI.dir/pr02.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr02.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr02.c
-
-CMakeFiles/LPI.dir/pr02.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr02.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr02.c > CMakeFiles\LPI.dir\pr02.c.i
-
-CMakeFiles/LPI.dir/pr02.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr02.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr02.c -o CMakeFiles\LPI.dir\pr02.c.s
-
-CMakeFiles/LPI.dir/tp04.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp04.c.obj: ../tp04.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/LPI.dir/tp04.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp04.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp04.c
-
-CMakeFiles/LPI.dir/tp04.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp04.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp04.c > CMakeFiles\LPI.dir\tp04.c.i
-
-CMakeFiles/LPI.dir/tp04.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp04.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp04.c -o CMakeFiles\LPI.dir\tp04.c.s
-
-CMakeFiles/LPI.dir/pr03.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr03.c.obj: ../pr03.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/LPI.dir/pr03.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr03.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr03.c
-
-CMakeFiles/LPI.dir/pr03.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr03.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr03.c > CMakeFiles\LPI.dir\pr03.c.i
-
-CMakeFiles/LPI.dir/pr03.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr03.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr03.c -o CMakeFiles\LPI.dir\pr03.c.s
-
-CMakeFiles/LPI.dir/tp05.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp05.c.obj: ../tp05.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/LPI.dir/tp05.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp05.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp05.c
-
-CMakeFiles/LPI.dir/tp05.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp05.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp05.c > CMakeFiles\LPI.dir\tp05.c.i
-
-CMakeFiles/LPI.dir/tp05.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp05.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp05.c -o CMakeFiles\LPI.dir\tp05.c.s
-
-CMakeFiles/LPI.dir/pr04.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr04.c.obj: ../pr04.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/LPI.dir/pr04.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr04.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr04.c
-
-CMakeFiles/LPI.dir/pr04.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr04.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr04.c > CMakeFiles\LPI.dir\pr04.c.i
-
-CMakeFiles/LPI.dir/pr04.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr04.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr04.c -o CMakeFiles\LPI.dir\pr04.c.s
-
-CMakeFiles/LPI.dir/tp06.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp06.c.obj: ../tp06.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/LPI.dir/tp06.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp06.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp06.c
-
-CMakeFiles/LPI.dir/tp06.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp06.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp06.c > CMakeFiles\LPI.dir\tp06.c.i
-
-CMakeFiles/LPI.dir/tp06.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp06.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp06.c -o CMakeFiles\LPI.dir\tp06.c.s
-
-CMakeFiles/LPI.dir/pr05.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr05.c.obj: ../pr05.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/LPI.dir/pr05.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr05.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr05.c
-
-CMakeFiles/LPI.dir/pr05.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr05.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr05.c > CMakeFiles\LPI.dir\pr05.c.i
-
-CMakeFiles/LPI.dir/pr05.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr05.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr05.c -o CMakeFiles\LPI.dir\pr05.c.s
-
-CMakeFiles/LPI.dir/pr06.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr06.c.obj: ../pr06.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/LPI.dir/pr06.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr06.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr06.c
-
-CMakeFiles/LPI.dir/pr06.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr06.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr06.c > CMakeFiles\LPI.dir\pr06.c.i
-
-CMakeFiles/LPI.dir/pr06.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr06.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr06.c -o CMakeFiles\LPI.dir\pr06.c.s
-
-CMakeFiles/LPI.dir/pr07.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr07.c.obj: ../pr07.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/LPI.dir/pr07.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr07.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr07.c
-
-CMakeFiles/LPI.dir/pr07.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr07.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr07.c > CMakeFiles\LPI.dir\pr07.c.i
-
-CMakeFiles/LPI.dir/pr07.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr07.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr07.c -o CMakeFiles\LPI.dir\pr07.c.s
-
-CMakeFiles/LPI.dir/tp07e08.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp07e08.c.obj: ../tp07e08.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/LPI.dir/tp07e08.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp07e08.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp07e08.c
-
-CMakeFiles/LPI.dir/tp07e08.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp07e08.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp07e08.c > CMakeFiles\LPI.dir\tp07e08.c.i
-
-CMakeFiles/LPI.dir/tp07e08.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp07e08.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp07e08.c -o CMakeFiles\LPI.dir\tp07e08.c.s
-
-CMakeFiles/LPI.dir/pr08.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr08.c.obj: ../pr08.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/LPI.dir/pr08.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr08.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr08.c
-
-CMakeFiles/LPI.dir/pr08.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr08.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr08.c > CMakeFiles\LPI.dir\pr08.c.i
-
-CMakeFiles/LPI.dir/pr08.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr08.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr08.c -o CMakeFiles\LPI.dir\pr08.c.s
-
-CMakeFiles/LPI.dir/tp09.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/tp09.c.obj: ../tp09.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/LPI.dir/tp09.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\tp09.c.obj   -c C:\Users\esago\CLionProjects\LPI\tp09.c
-
-CMakeFiles/LPI.dir/tp09.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/tp09.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\tp09.c > CMakeFiles\LPI.dir\tp09.c.i
-
-CMakeFiles/LPI.dir/tp09.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp09.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp09.c -o CMakeFiles\LPI.dir\tp09.c.s
-
-CMakeFiles/LPI.dir/pr09.c.obj: CMakeFiles/LPI.dir/flags.make
-CMakeFiles/LPI.dir/pr09.c.obj: ../pr09.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/LPI.dir/pr09.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\LPI.dir\pr09.c.obj   -c C:\Users\esago\CLionProjects\LPI\pr09.c
-
-CMakeFiles/LPI.dir/pr09.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/LPI.dir/pr09.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\esago\CLionProjects\LPI\pr09.c > CMakeFiles\LPI.dir\pr09.c.i
-
-CMakeFiles/LPI.dir/pr09.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/pr09.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\pr09.c -o CMakeFiles\LPI.dir\pr09.c.s
+CMakeFiles/LPI.dir/tp12.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/LPI.dir/tp12.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\esago\CLionProjects\LPI\tp12.c -o CMakeFiles\LPI.dir\tp12.c.s
 
 # Object files for target LPI
 LPI_OBJECTS = \
 "CMakeFiles/LPI.dir/main.c.obj" \
-"CMakeFiles/LPI.dir/pr01.c.obj" \
-"CMakeFiles/LPI.dir/tp02.c.obj" \
-"CMakeFiles/LPI.dir/tp03.c.obj" \
-"CMakeFiles/LPI.dir/pr02.c.obj" \
-"CMakeFiles/LPI.dir/tp04.c.obj" \
-"CMakeFiles/LPI.dir/pr03.c.obj" \
-"CMakeFiles/LPI.dir/tp05.c.obj" \
-"CMakeFiles/LPI.dir/pr04.c.obj" \
-"CMakeFiles/LPI.dir/tp06.c.obj" \
-"CMakeFiles/LPI.dir/pr05.c.obj" \
-"CMakeFiles/LPI.dir/pr06.c.obj" \
-"CMakeFiles/LPI.dir/pr07.c.obj" \
-"CMakeFiles/LPI.dir/tp07e08.c.obj" \
-"CMakeFiles/LPI.dir/pr08.c.obj" \
-"CMakeFiles/LPI.dir/tp09.c.obj" \
-"CMakeFiles/LPI.dir/pr09.c.obj"
+"CMakeFiles/LPI.dir/pr11.c.obj" \
+"CMakeFiles/LPI.dir/tp11.c.obj" \
+"CMakeFiles/LPI.dir/tp12.c.obj"
 
 # External object files for target LPI
 LPI_EXTERNAL_OBJECTS =
 
 LPI.exe: CMakeFiles/LPI.dir/main.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr01.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp02.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp03.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr02.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp04.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr03.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp05.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr04.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp06.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr05.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr06.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr07.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp07e08.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr08.c.obj
-LPI.exe: CMakeFiles/LPI.dir/tp09.c.obj
-LPI.exe: CMakeFiles/LPI.dir/pr09.c.obj
+LPI.exe: CMakeFiles/LPI.dir/pr11.c.obj
+LPI.exe: CMakeFiles/LPI.dir/tp11.c.obj
+LPI.exe: CMakeFiles/LPI.dir/tp12.c.obj
 LPI.exe: CMakeFiles/LPI.dir/build.make
 LPI.exe: CMakeFiles/LPI.dir/linklibs.rsp
 LPI.exe: CMakeFiles/LPI.dir/objects1.rsp
 LPI.exe: CMakeFiles/LPI.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking C executable LPI.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\esago\CLionProjects\LPI\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable LPI.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LPI.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

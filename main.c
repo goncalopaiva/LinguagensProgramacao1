@@ -1,28 +1,16 @@
-#include <stdio.h>
-#include <string.h>
+//--->TP
+#include "tp11.h"
 
-#include "tp02.h"
-#include "tp03.h"
-#include "tp04.h"
-#include "tp05.h"
-#include "tp06.h"
-#include "tp07e08.h"
-#include "tp09.h"
 
-#include "pr01.h"
-#include "pr02.h"
-#include "pr03.h"
-#include "pr04.h"
-#include "pr05.h"
-#include "pr06.h"
-#include "pr07.h"
-#include "pr08.h"
-#include "pr09.h"
+//--->PL
+#include "pr11.h"
 
 
 
-int main() {
-
-    int sum_all_argv();
-
+int main(int argc, const char* argv[]) {
+    CLASSSTUDENTS turma = {"LP1", NULL, 0};
+    insert_student_ordered(&turma, "A", 16.0, 1);
+    insert_student_ordered(&turma, "B", 17.0, 2);
+    insert_student_ordered(&turma, "C", 16.9, 3);
+    print_students(turma);
 }

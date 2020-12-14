@@ -77,100 +77,22 @@
 		<Unit filename="C:/Users/esago/CLionProjects/LPI/main.c">
 			<Option target="LPI"/>
 		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr01.c">
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr11.c">
 			<Option target="LPI"/>
 		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr01.h">
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr11.h">
 			<Option target="LPI"/>
 		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr02.c">
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp11.c">
 			<Option target="LPI"/>
 		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr02.h">
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp11.h">
 			<Option target="LPI"/>
 		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr03.c">
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp12.c">
 			<Option target="LPI"/>
 		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr03.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr04.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr04.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr05.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr05.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr06.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr06.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr07.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr07.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr08.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr08.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr09.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/pr09.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp02.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp02.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp03.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp03.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp04.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp04.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp05.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp05.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp06.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp06.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp07e08.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp07e08.h">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp09.c">
-			<Option target="LPI"/>
-		</Unit>
-		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp09.h">
+		<Unit filename="C:/Users/esago/CLionProjects/LPI/tp12.h">
 			<Option target="LPI"/>
 		</Unit>
 		<Unit filename="C:/Users/esago/CLionProjects/LPI/CMakeLists.txt">
